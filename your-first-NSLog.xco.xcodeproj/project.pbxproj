@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E26B4D3F1B051A5B001AE926 /* Build configuration list for PBXProject "your-first-NSLog" */;
+			buildConfigurationList = E26B4D3F1B051A5B001AE926 /* Build configuration list for PBXProject "your-first-NSLog.xco" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -269,7 +269,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E26B4D3F1B051A5B001AE926 /* Build configuration list for PBXProject "your-first-NSLog" */ = {
+		E26B4D3F1B051A5B001AE926 /* Build configuration list for PBXProject "your-first-NSLog.xco" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E26B4D651B051A5B001AE926 /* Debug */,
